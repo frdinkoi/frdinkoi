@@ -141,13 +141,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frdinkoi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph"/>
   
-  <img src="https://github-stats-extended.vercel.app/api?username=frdinkoi&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" />
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=transparent" width="48%" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=frdinkoi&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="49%" /><img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=transparent" width="49%" alt="Top Languages"/>
 </div>
 
 ---
 
-
+### Beyond code
 <div align="center">
  <a href="https://www.instagram.com/frdinkoi/" target="_blank"> <img src="/assets/Hobby.png" /> </a>
 
